@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "A powerful little tool for managing CSS animations",
   "author": "Daniel Raftery",
+  "main": ["animo.js","animate-animo.css"],
   "licenses": [
     {
       "type": "MIT",
